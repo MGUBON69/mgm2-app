@@ -14,9 +14,9 @@
       "type": "image/png"
     },
     {
-      "src": "./MG_profile.png",
+      "src": "./MG_profile.jpg",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/jpg"
     }
   ]
 }
