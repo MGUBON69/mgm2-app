@@ -10,7 +10,7 @@ const ASSETS_TO_CACHE = [
   './index.html',
   './manifest.json',
   './icon2.png',
-  './MG_profile.png'
+  './MG_profile.jpg'
 ];
 
 // 2. Install Event: บันทึก App Shell ลงแคช
